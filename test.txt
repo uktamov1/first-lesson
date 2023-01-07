@@ -1,0 +1,10 @@
+HELLO WORLD
+write quit
+Bu yerda
+a sonini
+b soniga
+qo'shish
+ funksiyasi
+bo'lish kerak
+
+
